@@ -24,5 +24,14 @@ public class App {
 
         frame.pack();
         frame.setVisible(true);
+
+
     }
+
+    public static void main(String[] args) {
+        System.out.println("this is changes");
+    }
+
+    //yes
+
 }
